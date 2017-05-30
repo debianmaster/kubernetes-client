@@ -1,3 +1,4 @@
+# WORK IN PROGRESS, do not use !
 # kubernetes-client
 
 [![Build Status](https://travis-ci.org/godaddy/kubernetes-client.svg?branch=master)](https://travis-ci.org/godaddy/kubernetes-client)
