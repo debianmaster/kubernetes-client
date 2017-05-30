@@ -1,5 +1,5 @@
 {
-  "name": "kubernetes-client",
+  "name": "openshift-client",
   "version": "3.10.1",
   "description": "Simplified Kubernetes API client.",
   "main": "lib/index.js",
@@ -12,11 +12,12 @@
     "test": "npm run lint && mocha",
     "test-integration": "TESTING=int mocha -t ${TIMEOUT:-30000} test"
   },
-  "repository": "godaddy/kubernetes-client",
+  "repository": "debianmaster/openshift-client",
   "keywords": [
     "kubernetes",
     "kubectl",
-    "containers"
+    "containers",
+    "openshift"
   ],
   "author": "GoDaddy Operating Company, LLC",
   "license": "MIT",
